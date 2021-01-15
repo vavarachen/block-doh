@@ -47,3 +47,6 @@ doh.cleanbrowsing.org    CNAME    .
 doh.crypto.sx    CNAME    .
 dns.rubyfish.cn    CNAME    .
 dns.dnsoverhttps.net    CNAME    .
+doh.dns.sb  CNAME .
+rdns.faelix.net CNAME .
+doh.dns.sb.cdn.cloudflare.net CNAME .
