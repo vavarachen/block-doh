@@ -45,3 +45,5 @@ doh.libredns.gr
 dns.adguard.com
 dns-family.adguard.com
 dns-s.safedns.com
+dns01.telsy.com
+dns02.telsy.com
