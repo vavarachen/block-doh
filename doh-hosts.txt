@@ -39,3 +39,4 @@ httpdns.y5en.com
 mozilla.cloudflare-dns.com    
 rdns.faelix.net
 support.browser.heytapmobi.com    
+dig.bdurl.net
